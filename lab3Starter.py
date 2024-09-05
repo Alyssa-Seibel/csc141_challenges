@@ -1,6 +1,6 @@
-# Wilfredo Vazquez
-# Date: 
-# This is the starter file for CSC141 lab day 3
+# Alyssa Seibel
+# Date: 9/5/24
+# Challenge work #1
 
 """
 Utilizing your knowledge of python so far...
